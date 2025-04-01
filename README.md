@@ -18,4 +18,6 @@ Sou **Felipe Yudi**, Desenvolvedor **Full-Stack**, com foco em **Back-End**  / I
 
 Se quiser trocar uma ideia sobre tecnologia ou oportunidades, me mande uma mensagem!  / If you want to chat about technology or opportunities, send me a message!  
 
-📩 **[Seu e-mail / LinkedIn / GitHub]**
+📩 **E-mail:** [ochiaifelipe@gmail.com](mailto:ochiaifelipe@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/felipe-yudi-figueira-ochiai-86b7112b7](https://www.linkedin.com/in/felipe-yudi-figueira-ochiai-86b7112b7)  
+🐙 **GitHub:** [github.com/OyudiF](https://github.com/OyudiF) 
