@@ -3,16 +3,12 @@
 Sou **Felipe Yudi**, Desenvolvedor **Full-Stack**, com foco em **Back-End** /  
 I am **Felipe Yudi**, a **Full-Stack** Developer focused on **Back-End Development**
 
----
-
 ## Sobre mim / About me
 
 - 🚀 Exploro e estudo novas tecnologias / I explore and study new technologies  
 - 📚 Aprimoro minhas habilidades com cursos, projetos práticos e desafios / I improve my skills through courses, practical projects, and challenges  
 - 🔧 Trabalho principalmente com **JavaScript, TypeScript, Java, Python, Node, Spring, FastApi** /  
   I mainly work with **JavaScript, TypeScript, Java, Python, Spring, Node, FastApi**
-
----
 
 ## Eu programo em / I code with
 
@@ -29,8 +25,6 @@ I am **Felipe Yudi**, a **Full-Stack** Developer focused on **Back-End Developme
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
 
 </div>
-
----
 
 ## Vamos nos conectar? / Let's connect?
 
