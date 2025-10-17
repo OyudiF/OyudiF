@@ -1,27 +1,57 @@
-## Bem-vindo / Welcome 👋  
+<h1 align="left">Bem-vindo / Welcome 👋</h1>
 
-Sou **Felipe Yudi**, Desenvolvedor **Full-Stack**, com foco em **Back-End**  / I am **Felipe Yudi**, a **Full-Stack Developer** focused on **Back-End Development**  
+###
 
-### Sobre mim / About me  
+<p align="left">Sou <bold>Felipe Yudi<bold/>, Desenvolvedor <bold>Full-Stack<bold/>, com foco em <bold>Back-End<bold/> / I am <bold>Felipe Yudi<bold/>, a <bold>Full-Stack<bold/> Developer focused on <bold>Back-End Development<bold/></p>
 
-+ 🚀 Exploro e estudo novas tecnologias / I explore and study new technologies  
-+ 📚 Aprimoro minhas habilidades com cursos, projetos práticos e desafios / I improve my skills through courses, practical projects, and challenges  
-+ 🔧 Trabalho principalmente com **JavaScript, TypeScript, PHP, Laravel e Bootstrap** / I mainly work with **JavaScript, TypeScript, PHP, Laravel, and Bootstrap**  
+###
 
-### Eu programo normalmente em / I normally code with 
+<h2 align="left">Sobre mim / About me</h2>
 
-#### 🧠 Linguagens / Languages  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+###
 
-#### ⚙️ Frameworks & Bibliotecas / Frameworks & Libraries  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+<ul align="left"> 
+  <li>🚀 Exploro e estudo novas tecnologias / I explore and study new technologies<li/>
+  <li>📚 Aprimoro minhas habilidades com cursos, projetos práticos e desafios / I improve my skills through courses, practical projects, and challenges<li/>
+  <li>🔧 Trabalho principalmente com <bold>JavaScript, TypeScript, Java, Python, Node, Spring, FastApi<bold/> / I mainly work with <bold>JavaScript, TypeScript, Java, Python, Spring, Node, FastApi<bold/><li/>
+</ul>
 
-### 📫 Vamos nos conectar? / Let’s connect?  
+###
 
-Se quiser trocar uma ideia sobre tecnologia ou oportunidades, me mande uma mensagem!  
-If you want to chat about technology or opportunities, send me a message!  
+<h2 align="left">Eu programo em / I code with</h2>
 
-📩 **E-mail:** [ochiaifelipe@gmail.com](mailto:ochiaifelipe@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/felipe-yudi-figueira-ochiai-86b7112b7](https://www.linkedin.com/in/felipe-yudi-figueira-ochiai-86b7112b7)  
-🐙 **GitHub:** [github.com/OyudiF](https://github.com/OyudiF)
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+</div>
+
+###
+
+<h2 align="left">Vamos nos conectar? / Let's connect?</h2>
+
+###
+
+<p align="left">Se quiser trocar uma ideia sobre tecnologia ou oportunidades, me mande uma mensagem!<br>If you want to chat about technology or opportunities, send me a message!</p>
+
+###
+
+<p align="left">📩 <bold>E-mail<bold/>: ochiaifelipe@gmail.com<br>🔗 <bold/>LinkedIn<bold/>: linkedin.com/in/felipe-yudi-figueira-ochiai-86b7112b7<br>🐙 <bold>GitHub<bold/>: github.com/OyudiF</p>
+
+###
