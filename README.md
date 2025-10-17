@@ -16,8 +16,7 @@ Sou **Felipe Yudi**, Desenvolvedor **Full-Stack**, com foco em **Back-End**  / I
 #### ⚙️ Frameworks & Bibliotecas / Frameworks & Libraries  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-
+![Spring Boot](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
 ### 📫 Vamos nos conectar? / Let’s connect?  
 
