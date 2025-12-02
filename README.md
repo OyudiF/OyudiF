@@ -1,7 +1,7 @@
 # Bem-vindo / Welcome 👋
 
-Sou **Felipe Yudi**, Desenvolvedor **Full-Stack**, com foco em **Back-End** e Game Dev nas horas vagas /  
-I am **Felipe Yudi**, a **Full-Stack** Developer focused on **Back-End Development** and Game Dev in my free time
+Sou **Felipe Yudi**, Desenvolvedor **Full-Stack**, com foco em **Back-End** e **Game Dev** nas horas vagas /  
+I am **Felipe Yudi**, a **Full-Stack** Developer focused on **Back-End Development** and **Game Dev** in my free time
 
 ## Sobre mim / About me
 
@@ -15,8 +15,8 @@ I am **Felipe Yudi**, a **Full-Stack** Developer focused on **Back-End Developme
 <div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" height=40 alt="lua logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" height=40 alt="lua logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/love2d/love2d-original.svg" height="40" alt="Love2D logo"/>
